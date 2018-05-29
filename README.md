@@ -12,7 +12,9 @@ Nenhum
 Variaveis
 --------------
 
-Nenhum
+    sonarqube_version: 5.6.6
+    
+Define a versao a ser instalada do SonarQube
 
 Dependencias
 ------------
