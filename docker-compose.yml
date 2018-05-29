@@ -46,3 +46,5 @@
         - /sys/fs/cgroup:/sys/fs/cgroup:ro
         - .:/ansible/roles/test
       privileged: true
+      extra_hosts:
+        - "localhost.localdomain:127.0.0.1"
